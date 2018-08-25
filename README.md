@@ -15,7 +15,7 @@ This repository is a VS Code workspace template for a simple C++ application tha
 - Click on **View -> Integrated Terminal** to open up the integrated terminal
 - Click on **Tasks -> Run Tasks**, and you should be prompted with a task named 'Build Application Task'. This is a task specified in the tasks.json file that runs a simple batch file (build.bat) which does the compiling and linking steps, and runs the generated executable binary (app.exe).
 - Run the task 'Build Application Task'. You should see some output in the integrated terminal, and the application should execute presenting a window created by GLFW.
-- (Optional) Click on File -> Preferences -> Keyboard Shorcuts and add a custom shortcut to running the task
+- (Optional) Click on **File -> Preferences -> Keyboard Shorcuts** and add a custom shortcut to running the task
 
 ### Finally...
 - Extend the code & build process, add more libraries, and enjoy building that next OpenGL graphics application or game! :) 
