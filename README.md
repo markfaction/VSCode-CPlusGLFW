@@ -11,7 +11,7 @@ This repository is a VS Code workspace template for a simple C++ application tha
 
 ### Using the VS Code Workspace
 - Clone the repository or download the repository contents to your local machine
-- Open the root folder (the folder which contains the **.vscode** folder) in VS Code
+- Open the workspace (the folder which contains the **.vscode** folder) in VS Code
 - Click on **View -> Integrated Terminal** to open up the integrated terminal
 - Click on **Tasks -> Run Tasks**, and you should be prompted with a task named 'Build Application Task'. This is a task specified in the tasks.json file that runs a simple batch file (build.bat) which does the compiling and linking steps, and runs the generated executable binary (app.exe).
 - Run the task 'Build Application Task'. You should see some output in the integrated terminal, and the application should execute presenting a window created by GLFW.
