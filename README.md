@@ -18,7 +18,7 @@ This repository is a VS Code workspace template for a simple C++ application tha
 - (Optional) Click on File -> Preferences -> Keyboard Shorcuts and add a custom shortcut to running the task
 
 ### Finally...
-- Extend the code and build process, add other libraries, and enjoy building that next OpenGL graphics application or game! :) 
+- Extend the code & build process, add more libraries, and enjoy building that next OpenGL graphics application or game! :) 
 
 
 
